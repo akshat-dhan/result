@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size: medium;
+    font-weight: bold;
+}
+div{
+    display: flex;
+    margin-bottom: 5px;
+}
+.heading{
+    width: 25%;
+    font-weight: bold;
+}
+th{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    font-size: SMALL;
+}
+
+tr {background-color: aliceblue;
+text-align: center; }
+
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+  #buriburi{color: blue;}
+  .title-image{
+    align-items: center;
+    justify-content: center;
+    
+}
+.title-image img{
+    max-width: 100%;
+    height: auto;
+}
